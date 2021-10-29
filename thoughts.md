@@ -4,4 +4,6 @@
 
 ## Two new strategies
 1. Researching and growing on my own (note the markdown learning that just happened).
-2. Reading notes before lessons, and reviewing them the next day. 
+2. Reading notes before lessons, and reviewing them the next day.
+
+# A *big* shoutout to John for helping me avoid comitting my whole user directory!
