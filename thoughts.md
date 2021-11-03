@@ -7,3 +7,6 @@
 2. Reading notes before lessons, and reviewing them the next day.
 
 # A *big* shoutout to John for helping me avoid comitting my whole user directory!
+
+
+3. Practice is great! 
